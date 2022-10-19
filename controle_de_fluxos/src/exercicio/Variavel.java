@@ -1,3 +1,4 @@
+package exercicio;
 
 public class Variavel {
 

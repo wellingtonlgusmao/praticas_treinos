@@ -1,4 +1,4 @@
-import javax.swing.text.StyledEditorKit.BoldAction;
+package exercicio;
 
 /**
  * Classe utilizada para demonstrar o uso do operador logico
