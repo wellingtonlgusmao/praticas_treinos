@@ -1,6 +1,7 @@
 package exercicio;
 //FLUXO DE REPETIÇÃO
 
+//teste por ciclo delimitado
 //*Utilização FOR
 
 class FOR {

@@ -2,7 +2,7 @@ package exercicio;
 //FLUXO DE REPETIÇÃO
 
 //Utilização do WHILE (ENQUANTO)
-
+//teste no inicio
 //import java.util.arraylist;
 //Importamos a classe ArrayList para poder fazer uso do vetor e armazenar elementos.
 
@@ -17,6 +17,6 @@ public class While {
             System.out.println(i); // imprima valor de i
             i++;
             // incremento da variável i.
-        } // fim do método
-    }// fim da classe
-}
+        } // fim do laço
+    }// fim da método
+}// fim da classe

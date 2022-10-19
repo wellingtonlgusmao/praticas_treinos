@@ -6,6 +6,7 @@ public class ContaTeste {
         conta.cliente = "Daniel";
         conta.saldo = 4000.00;
         conta.exibesaldo();
+
         conta.saque(3000);
         conta.exibesaldo();
         conta.deposita(1500);
