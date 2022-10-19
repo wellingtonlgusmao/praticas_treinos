@@ -7,6 +7,11 @@ public class Matematica {
         } else {
             return dois;
         }
+    }
+
+    double soma(double um, double dois) {
+        double s = um + dois;
+        return s;
 
     }
 }
